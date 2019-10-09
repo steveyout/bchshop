@@ -624,7 +624,7 @@ bot.hears('💸Balance',ctx => {
                                 con.query(sqla)
                                 ctx.telegram.sendMessage(res[0].id, 'we have received your deposit of ' + transactions + ' you gain ' + balance + '💰 added to your balance and '+balance+' ⚡️ ')
                                 ctx.telegram.sendMessage(ref, 'you refferal just deposited. ' + refbonus + '💰 has been added to your payout balance '+refbonus+' ⚡️ payout points')
-                                ctx.telegram.sendMessage('@bitcoinshoppays', 'new deposit of ' + transactions + ' BCH by ' + ctx.from.first_name + '\n\nhttps://bitcoincash.blockexplorer.com/address/' + res[0].depoaddre)
+                                ctx.telegram.sendMessage('@bitcoinshoppays', 'new deposit of ' + transactions + ' BCH by ' + ctx.from.first_name + '\n\nhttps://blockdozer.com/address/' + res[0].depoaddre)
                             })
                         }
                     })
@@ -1973,7 +1973,7 @@ withdrawscene.on('message',ctx => {
                         'amount': payout,
                         'currency': 'BTC'
                     }, function (err, tx) {
-                        ctx.telegram.sendMessage('@bitcoinshoppays', 'New withdrawal of ' + payout + ' BCH by ' + ctx.from.first_name + '\n\nhttps://bitcoincash.blockexplorer.com/address/' + results[0].withdrawadd)
+                        ctx.telegram.sendMessage('@bitcoinshoppays', 'New withdrawal of ' + payout + ' BCH by ' + ctx.from.first_name + '\n\nhttps://blockdozer.com/address/' + results[0].withdrawadd)
                         var user = ctx.from.id
                         var amount = ctx.message.text
                         var sqla = "update `account` set `payout` =`payout`- '" + amount + "', `payoutpoints` =`payoutpoints`- " + amount + ", transactions =`transactions`+ " + payout + " where `id` = '" + user + "'";
