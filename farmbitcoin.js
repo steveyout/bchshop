@@ -1973,7 +1973,7 @@ withdrawscene.on('message',ctx => {
                         'amount': payout,
                         'currency': 'BTC'
                     }, function (err, tx) {
-                        ctx.telegram.sendMessage('@bitcoinshoppays', 'New withdrawal of ' + payout + ' BTC by ' + ctx.from.first_name + '\n\nhttps://bitcoincash.blockexplorer.com/address/' + results[0].withdrawadd)
+                        ctx.telegram.sendMessage('@bitcoinshoppays', 'New withdrawal of ' + payout + ' BCH by ' + ctx.from.first_name + '\n\nhttps://bitcoincash.blockexplorer.com/address/' + results[0].withdrawadd)
                         var user = ctx.from.id
                         var amount = ctx.message.text
                         var sqla = "update `account` set `payout` =`payout`- '" + amount + "', `payoutpoints` =`payoutpoints`- " + amount + ", transactions =`transactions`+ " + payout + " where `id` = '" + user + "'";
