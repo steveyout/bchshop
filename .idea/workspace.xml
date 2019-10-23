@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a10f0ef-3126-456b-a983-10d201e88f73" name="Default" comment="" />
+    <list default="true" id="1a10f0ef-3126-456b-a983-10d201e88f73" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,12 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="farmbitcoin.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="1216" column="18" lean-forward="true" selection-start-line="1214" selection-end-line="1218" selection-end-column="2" />
+            <state relative-caret-position="23">
+              <caret line="13" column="29" selection-start-line="13" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -34,6 +36,7 @@
         <option value="$PROJECT_DIR$/ddd/package.json" />
         <option value="$PROJECT_DIR$/ddd/farmbitcoin.js" />
         <option value="$PROJECT_DIR$/ddd/.gitignore" />
+        <option value="$PROJECT_DIR$/farmbitcoin.js" />
       </list>
     </option>
   </component>
@@ -75,10 +78,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ethshop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,28 +140,33 @@
       <workItem from="1569339005019" duration="83000" />
       <workItem from="1569943750440" duration="2085000" />
       <workItem from="1570546865960" duration="51000" />
+      <workItem from="1570602676040" duration="539000" />
+      <workItem from="1570604967693" duration="411000" />
+      <workItem from="1570613053635" duration="1223000" />
+      <workItem from="1570641717858" duration="17000" />
+      <workItem from="1570641746567" duration="30000" />
+      <workItem from="1570685978121" duration="362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11523000" />
+    <option name="totallyTimeSpent" value="14105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="21" width="1332" height="688" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496136" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24140508" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42242992" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42242992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32897195" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29780033" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -169,6 +183,48 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="26" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28198">
+          <caret line="1226" column="2" lean-forward="true" selection-start-line="1226" selection-start-column="2" selection-end-line="1226" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13869">
+          <caret line="603" column="4" selection-start-line="603" selection-start-column="4" selection-end-line="603" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27968">
+          <caret line="1216" column="18" lean-forward="true" selection-start-line="1214" selection-end-line="1218" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ddd/farmbitcoin.js" />
     <entry file="file://$PROJECT_DIR$/ddd/package.json" />
     <entry file="file://$PROJECT_DIR$/ddd/farmbitcoin.js" />
@@ -194,10 +250,13 @@
     <entry file="file://$PROJECT_DIR$/ddd/.gitignore" />
     <entry file="file://$PROJECT_DIR$/ddd/package.json" />
     <entry file="file://$PROJECT_DIR$/ddd/farmbitcoin.js" />
+    <entry file="file://$PROJECT_DIR$/../ethshop/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="1216" column="18" lean-forward="true" selection-start-line="1214" selection-end-line="1218" selection-end-column="2" />
+        <state relative-caret-position="23">
+          <caret line="13" column="29" selection-start-line="13" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>

@@ -579,7 +579,7 @@ bot.hears('💸Balance',ctx => {
     var sql = "SELECT balance,payout,income,time,firstname,payoutpoints from `account` where `id` = '" + id + "'";
     con.query(sql, function (error, results, fields) {
         var payout=results[0].payout
-        var btc = payout/1000000/30.00
+        var btc = payout/30000000
         var btcAmount, currency, rates;
 
         rates = require('bitcoin-exchange-rates');
@@ -1907,7 +1907,7 @@ withdrawscene.enter((ctx) => {
             ctx.scene.leave()
         } else {
             var points=results[0].payoutpoints
-            var btc =points/1000000
+            var btc =points/30000000
             var btcAmount, currency, rates;
 
             rates = require('bitcoin-exchange-rates');
