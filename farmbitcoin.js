@@ -2,13 +2,13 @@ const Telegraf = require('telegraf');
 const Extra = require('telegraf/extra');
 var randomItem = require('random-item');
 const Markup = require('telegraf/markup');
-const bot = new Telegraf("727233460:AAGLQ1kA72thqj_gLzWlxyp9nGsTVjt-HV8");
+const bot = new Telegraf("975021221:AAGd1iIZSf9rxJ_8BV4G3siqecC7Ak3oSF0");
 const Scene = require('telegraf/scenes/base')
 const session = require('telegraf/session')
 const Stage = require('telegraf/stage')
 const { enter,leave } = Stage
 var rest = require('restler');
-var btc='703f3d07-41bb-52bb-8ce8-e557fce7c310'
+var btc='fc33efe3-9afe-5214-b188-53ffb26c7b61'
 var rates = require("bitcoin-exchange-rates");
 var cron = require('node-cron');
 var mysql = require('mysql');
@@ -20,15 +20,15 @@ var WAValidator = require('wallet-address-validator');
 var coinbase = require('coinbase');
 var Coinbase = require('coinbase');
 var Client = require('coinbase').Client;
-var mysecret = '8eDpUW9PJ7E16xlns9msu5vUNxth9G0A'
-var mykey = 'JaH2VY37PArRPeod'
+var mysecret = 'YmPmAsNeuwvEiufNue4erKBktoCaShhF'
+var mykey = 'jawBVbmyN9GPhQvs'
 var sb = require('satoshi-bitcoin');
 var client = new Client({'apiKey': mykey, 'apiSecret': mysecret});
 var con = mysql.createConnection({
     host: "remotemysql.com",
-    user: "EbWXgmyGUV",
-    password: "UtPtl510aQ",
-    database:"EbWXgmyGUV"
+    user: "6g1KzF56pb",
+    password: "knZLU1bBaL",
+    database:"6g1KzF56pb"
 });
 var rn = require('random-number');
 var options = {
@@ -231,7 +231,7 @@ bot.hears('👨‍👧‍👦Refferals',ctx => {
 
 
 bot.action('👤Refferal link',ctx=>{
-    ctx.editMessageText('https://t.me/Bchshopbot?start='+ctx.from.id,Extra
+    ctx.editMessageText('https://t.me/bchshopv2bot?start='+ctx.from.id,Extra
         .HTML()
         .markup((m) => m.inlineKeyboard([
             m.callbackButton('👥Refferals', '👥Refferals')
@@ -1907,7 +1907,7 @@ withdrawscene.enter((ctx) => {
             ctx.scene.leave()
         } else {
             var points=results[0].payoutpoints
-            var btc =points/30000000
+            var btc =points/1000000*30
             var btcAmount, currency, rates;
 
             rates = require('bitcoin-exchange-rates');
