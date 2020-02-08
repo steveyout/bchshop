@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a10f0ef-3126-456b-a983-10d201e88f73" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/farmbitcoin.js" beforeDir="false" afterPath="$PROJECT_DIR$/farmbitcoin.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +19,17 @@
       <file leaf-file-name="farmbitcoin.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="23">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -57,6 +65,7 @@
         <option value="$PROJECT_DIR$/ddd/farmbitcoin.js" />
         <option value="$PROJECT_DIR$/ddd/.gitignore" />
         <option value="$PROJECT_DIR$/now.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/farmbitcoin.js" />
       </list>
     </option>
@@ -86,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,7 +107,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,17 +210,30 @@
       <workItem from="1574396560361" duration="20000" />
       <workItem from="1574396592517" duration="567000" />
       <workItem from="1574397189664" duration="675000" />
+      <workItem from="1574398053565" duration="382000" />
+      <workItem from="1574451516466" duration="43000" />
+      <workItem from="1574451881360" duration="37000" />
+      <workItem from="1574452212949" duration="3000" />
+      <workItem from="1574485144009" duration="466000" />
+      <workItem from="1574487376173" duration="35000" />
+      <workItem from="1575172711275" duration="14000" />
+      <workItem from="1575605241442" duration="1351000" />
+      <workItem from="1575807132778" duration="154000" />
+      <workItem from="1575869165700" duration="398000" />
+      <workItem from="1578728964166" duration="97000" />
+      <workItem from="1580926036042" duration="397000" />
+      <workItem from="1581071567099" duration="327000" />
+      <workItem from="1581075998395" duration="873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20730000" />
+    <option name="totallyTimeSpent" value="25307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2406577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23991032" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -220,7 +242,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41962776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29780033" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29780033" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -239,13 +261,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48691">
-          <caret line="2117" column="33" lean-forward="true" selection-start-line="2117" selection-start-column="33" selection-end-line="2117" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/now.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -427,10 +442,17 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="23">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
