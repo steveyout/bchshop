@@ -632,6 +632,7 @@ bot.hears('💸Balance',ctx => {
                             m.urlButton("Paypal Refill", payment.links[1].href),
                             m.callbackButton('🔰Withdraw', '🔰Withdraw')
                         ], {columns: 1})))
+                }
                 })
         })
     })
