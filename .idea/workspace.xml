@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a10f0ef-3126-456b-a983-10d201e88f73" name="Default" comment="" />
+    <list default="true" id="1a10f0ef-3126-456b-a983-10d201e88f73" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farmbitcoin.js" beforeDir="false" afterPath="$PROJECT_DIR$/farmbitcoin.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +20,17 @@
       <file leaf-file-name="farmbitcoin.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+            <state relative-caret-position="-12738">
+              <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -64,6 +76,7 @@
         <option value="$PROJECT_DIR$/ddd/.gitignore" />
         <option value="$PROJECT_DIR$/now.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/farmbitcoin.js" />
       </list>
     </option>
@@ -224,11 +237,17 @@
       <workItem from="1581075998395" duration="873000" />
       <workItem from="1581145496924" duration="289000" />
       <workItem from="1581147264031" duration="260000" />
+      <workItem from="1581147536201" duration="700000" />
+      <workItem from="1582736808137" duration="676000" />
+      <workItem from="1582820352802" duration="47000" />
+      <workItem from="1582916714892" duration="73000" />
+      <workItem from="1583171869552" duration="16000" />
+      <workItem from="1583171953078" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25856000" />
+    <option name="totallyTimeSpent" value="27399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -261,13 +280,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/now.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44068">
@@ -449,10 +461,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        <state relative-caret-position="-12738">
+          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
         </state>
       </provider>
     </entry>
