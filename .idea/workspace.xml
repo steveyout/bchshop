@@ -19,8 +19,8 @@
       <file leaf-file-name="farmbitcoin.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="632" column="70" lean-forward="true" selection-start-line="632" selection-start-column="70" selection-end-line="632" selection-end-column="70" />
+            <state relative-caret-position="230">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="22" selection-end-line="23" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
+              <caret column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -46,8 +46,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="460">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -80,8 +80,8 @@
         <option value="$PROJECT_DIR$/now.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/farmbitcoin.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/farmbitcoin.js" />
       </list>
     </option>
   </component>
@@ -250,16 +250,27 @@
       <workItem from="1583171995989" duration="237000" />
       <workItem from="1583172241028" duration="8000" />
       <workItem from="1583172268331" duration="57000" />
+      <workItem from="1583172412228" duration="119000" />
+      <workItem from="1583172544756" duration="7000" />
+      <workItem from="1585034739969" duration="450000" />
+      <workItem from="1585220789874" duration="56000" />
+      <workItem from="1585297372563" duration="19000" />
+      <workItem from="1585297411256" duration="22000" />
+      <workItem from="1585466036249" duration="142000" />
+      <workItem from="1585650332156" duration="34000" />
+      <workItem from="1585650389956" duration="6000" />
+      <workItem from="1586278437896" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27701000" />
+    <option name="totallyTimeSpent" value="28572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23991032" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23916294" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -448,13 +459,6 @@
     <entry file="file://$PROJECT_DIR$/../ethshop/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/now.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../bitcoinshop/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -468,21 +472,28 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
+          <caret column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="460">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/now.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/farmbitcoin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="632" column="70" lean-forward="true" selection-start-line="632" selection-start-column="70" selection-end-line="632" selection-end-column="70" />
+        <state relative-caret-position="230">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="22" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>

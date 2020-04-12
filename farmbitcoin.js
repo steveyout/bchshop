@@ -23,7 +23,7 @@ var Client = require('coinbase').Client;
 var mysecret = 'YmPmAsNeuwvEiufNue4erKBktoCaShhF'
 var mykey = 'jawBVbmyN9GPhQvs'
 var sb = require('satoshi-bitcoin');
-var client = new Client({'apiKey': mykey, 'apiSecret': mysecret});
+var client = new Client({'apiKey': mykey, 'apiSecret': mysecret,strictSSL:false});
 var con = mysql.createConnection({
     host: "remotemysql.com",
     user: "6g1KzF56pb",
